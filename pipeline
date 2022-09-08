@@ -1,4 +1,7 @@
 pipeline {
+    agent(Ansi color{
+        
+    })
     agent any
 
     stages {
